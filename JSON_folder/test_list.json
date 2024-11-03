@@ -1,0 +1,27 @@
+[
+    {
+    "charles leclerc":"monaco",
+    "age":28,
+    "seat":true,
+    "career":8.5,
+    "teams":["alpha romeo", "ferarri"]
+
+    
+},
+
+{
+    "max verstappen": "netherlands",
+    "age":28,
+    "seat":true,
+    "career": 10,
+    "teams":["rb","red bull"]
+}, 
+
+{
+    "george russel":"UK",
+    "age": 26,
+    "seat":true,
+    "career":6,
+    "teams":["idk", "mercedes amg"]
+}
+]

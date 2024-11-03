@@ -1,0 +1,14 @@
+{
+    "string data": "string",
+    "int": 25,
+    "boolean data": true,
+    "float": 23.5,
+    "several datas": ["string1", 34],
+    "another element" :{
+        "string2":"idk man",
+        "number":34
+    }
+
+
+
+}

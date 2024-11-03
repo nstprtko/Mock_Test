@@ -1,0 +1,24 @@
+<tag1>
+    <element_1>
+        <person>Person 1</person>
+        <age>age 1</age>
+        <country> country 1</country>
+        <liking> Liking 1</liking>
+    </element_1>
+
+    <element_2>
+        <person>Person 2</person>
+        <age>age 2</age>
+        <country> country 2</country>
+        <liking> Liking 2</liking>
+    </element_2>
+
+    <element_3>
+        <person>Person 3</person>
+        <age>age 3</age>
+        <country> country 3</country>
+        <liking> Liking 3</liking>
+    </element_3>
+
+
+</tag1>
